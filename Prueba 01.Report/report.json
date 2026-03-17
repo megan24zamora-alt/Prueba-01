@@ -27,6 +27,15 @@
       "name": "0a29192076207ce570ee",
       "visualContainers": [
         {
+          "config": "{\"name\":\"07d5a45657c502800c79\",\"layouts\":[{\"id\":0,\"position\":{\"x\":829.0449082858951,\"y\":124.68058191018343,\"z\":2,\"width\":299.5572422517394,\"height\":283.3649588867805,\"tabOrder\":2}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"drillFilterOtherVisuals\":true}}",
+          "filters": "[]",
+          "height": 283.36,
+          "width": 299.56,
+          "x": 829.04,
+          "y": 124.68,
+          "z": 2.00
+        },
+        {
           "config": "{\"name\":\"2adb9b5b32c1605803a0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":150.58823529411765,\"y\":422.61859582542695,\"z\":1,\"width\":650.9297912713473,\"height\":297.9380139152435,\"tabOrder\":1}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Prueba 01\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}]}]}}]}}}",
           "filters": "[]",
           "height": 297.94,
